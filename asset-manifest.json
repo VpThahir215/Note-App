@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Note-App/static/css/main.49f430a9.css",
+    "main.js": "/Note-App/static/js/main.2a018db5.js",
+    "static/js/453.a98e2541.chunk.js": "/Note-App/static/js/453.a98e2541.chunk.js",
+    "static/media/pawel-czerwinski-GycPY2LU2Ew-unsplash.jpg": "/Note-App/static/media/pawel-czerwinski-GycPY2LU2Ew-unsplash.6d0e2ab2760b919138ac.jpg",
+    "index.html": "/Note-App/index.html",
+    "main.49f430a9.css.map": "/Note-App/static/css/main.49f430a9.css.map",
+    "main.2a018db5.js.map": "/Note-App/static/js/main.2a018db5.js.map",
+    "453.a98e2541.chunk.js.map": "/Note-App/static/js/453.a98e2541.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f430a9.css",
+    "static/js/main.2a018db5.js"
+  ]
+}
